@@ -2,4 +2,4 @@
 
 ## Document type:
 
-Mobile app
+Index
