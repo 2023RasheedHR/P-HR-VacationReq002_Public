@@ -10,3 +10,4 @@
 * [Transfer Official Documents](transfer-official-documents.md)
 * [Investigation Procedures Form](investigation-procedures-form.md)
 * [Employee Database](employee-database.md)
+* [Effective Date Notice - اشعار مباشرة عمل](effective-date-notice-ashaar-mbashrh-aml.md)
