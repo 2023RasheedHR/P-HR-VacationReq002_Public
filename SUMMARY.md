@@ -18,3 +18,4 @@
   * [إجراء الجزاءات](procedures-ijraaat/ijraa-aljzaaat.md)
   * [إجراء استقالة](procedures-ijraaat/ijraa-astqalh.md)
   * [إجراء طي القيد / الفصل](procedures-ijraaat/ijraa-ty-alqyd-alfsl.md)
+  * [الإجازات المرضية](procedures-ijraaat/alijazat-almrdhyh.md)
