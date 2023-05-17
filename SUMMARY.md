@@ -2,7 +2,7 @@
 
 * [الوثائق الرسمية - Official Documents ](https://gofile.io/d/AssGNa)
 * [Forms - النماذج](README.md)
-  * [Vacation Request](<README (1).md>)
+  * [Vacation Request](README.md)
     * [Vacation Request Public](vacation-request/vacation-request-public.md)
     * [Vacation Request Secure](vacation-request/vacation-request-secure.md)
   * [Renewal Iqamas](renewal-iqamas/README.md)
@@ -17,3 +17,4 @@
   * [إجراء نقل برغبة الإدارة](procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
   * [إجراء الجزاءات](procedures-ijraaat/ijraa-aljzaaat.md)
   * [إجراء استقالة](procedures-ijraaat/ijraa-astqalh.md)
+  * [إجراء طي القيد / الفصل](procedures-ijraaat/ijraa-ty-alqyd-alfsl.md)
