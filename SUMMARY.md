@@ -1,11 +1,7 @@
 # Table of contents
 
-* [Procedures - إجراءات](README.md)
-  * [إجراء نقل برغبة الإدارة](procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
-  * [إجراء الجزاءات](procedures-ijraaat/ijraa-aljzaaat.md)
-  * [إجراء استقالة](procedures-ijraaat/ijraa-astqalh.md)
 * [الوثائق الرسمية - Official Documents ](https://gofile.io/d/AssGNa)
-* [Forms - النماذج](forms-alnmathj/README.md)
+* [Forms - النماذج](README.md)
   * [Vacation Request](<README (1).md>)
     * [Vacation Request Public](vacation-request/vacation-request-public.md)
     * [Vacation Request Secure](vacation-request/vacation-request-secure.md)
@@ -17,3 +13,7 @@
   * [Investigation Procedures Form - نموذج إجراء تحقيق](investigation-procedures-form-nmwthj-ijraa-thqyq.md)
   * [Effective Date Notice - اشعار مباشرة عمل](effective-date-notice-ashaar-mbashrh-aml.md)
 * [Employee Database](employee-database.md)
+* [Procedures - إجراءات](procedures-ijraaat/README.md)
+  * [إجراء نقل برغبة الإدارة](procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
+  * [إجراء الجزاءات](procedures-ijraaat/ijraa-aljzaaat.md)
+  * [إجراء استقالة](procedures-ijraaat/ijraa-astqalh.md)
