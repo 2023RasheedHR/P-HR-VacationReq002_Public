@@ -20,3 +20,6 @@
   * [إجراء استقالة](procedures-ijraaat/ijraa-astqalh.md)
   * [إجراء طي القيد / الفصل](procedures-ijraaat/ijraa-ty-alqyd-alfsl.md)
   * [الإجازات المرضية](procedures-ijraaat/alijazat-almrdhyh.md)
+* [HR Internal](hr-internal/README.md)
+  * [Comapare - مقارنة](hr-internal/comapare-mqarnh/README.md)
+    * [مقيم](hr-internal/comapare-mqarnh/mqym.md)
