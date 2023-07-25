@@ -15,6 +15,7 @@
   * [Leave Authorization Form - طلب استئذان](forms-alnmathj/leave-authorization-form-tlb-astethan.md)
   * [Calendar Issues Ticketing](forms-alnmathj/calendar-issues-ticketing.md)
   * [Renew Contract تجديد عقد](forms-alnmathj/renew-contract-tjdyd-aqd.md)
+  * [المخالفات والجزاءات القانونية](forms-alnmathj/almkhalfat-waljzaaat-alqanwnyh.md)
   * [Job Offer عقد عمل](forms-alnmathj/job-offer-aqd-aml.md)
 * [Employee Database](employee-database.md)
 * [Procedures - إجراءات](procedures-ijraaat/README.md)
