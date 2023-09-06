@@ -19,6 +19,7 @@
   * [Job Offer عقد عمل](forms-alnmathj/job-offer-aqd-aml.md)
   * [Salary increase](forms-alnmathj/salary-increase.md)
   * [Internal transfer || النقل الداخلي](forms-alnmathj/internal-transfer-or-or-alnql-aldakhly.md)
+* [Report of escape || بلاغ هروب](report-of-escape-or-or-blagh-hrwb.md)
 * [Employee Database](employee-database.md)
 * [Procedures - إجراءات](procedures-ijraaat/README.md)
   * [إجراء نقل برغبة الإدارة](procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
