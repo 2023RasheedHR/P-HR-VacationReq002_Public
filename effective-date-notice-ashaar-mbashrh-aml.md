@@ -1,3 +1,3 @@
 # Effective Date Notice - اشعار مباشرة عمل
 
-[https://forms.gle/d9MsH1nmb7J2UXut5](https://forms.gle/d9MsH1nmb7J2UXut5)
+[https://forms.gle/HCguftq67gxX5kAE6](https://forms.gle/HCguftq67gxX5kAE6)
