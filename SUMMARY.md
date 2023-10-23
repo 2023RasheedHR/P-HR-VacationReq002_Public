@@ -36,6 +36,7 @@
   * [Loan Form - نموذج سلف](forms-alnmathj/loan-form-nmwthj-slf.md)
   * [Business Card - Email Signature](forms-alnmathj/business-card-email-signature.md)
   * [Report of escape بلاغ هروب](forms-alnmathj/report-of-escape-blagh-hrwb.md)
+  * [Order office supplies](forms-alnmathj/order-office-supplies.md)
 * [Employee Database](employee-database.md)
 * [Procedures - إجراءات](procedures-ijraaat/README.md)
   * [إجراء نقل برغبة الإدارة](procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
