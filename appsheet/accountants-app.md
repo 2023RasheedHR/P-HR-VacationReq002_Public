@@ -1,3 +1,3 @@
 # Accountants app
 
-[https://www.appsheet.com/start/5a13e5f4-cf12-48ac-babb-6c80abd8d9a4](https://www.appsheet.com/start/5a13e5f4-cf12-48ac-babb-6c80abd8d9a4)
+[https://www.appsheet.com/start/722d8eed-48a3-4d2f-8ed9-8caf4435c086](https://www.appsheet.com/start/722d8eed-48a3-4d2f-8ed9-8caf4435c086)
