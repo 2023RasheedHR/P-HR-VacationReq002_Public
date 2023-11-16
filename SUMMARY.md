@@ -20,6 +20,7 @@
   * [HR app](appsheet/page.md)
 * [Forms - النماذج](<README (1).md>)
   * [Vacation Request](forms-alnmathj/vacation-request.md)
+  * [Clearance Form - إخلاء طرف](forms-alnmathj/clearance-form-ikhlaa-trf.md)
   * [Investigation Procedures Form - نموذج إجراء تحقيق](investigation-procedures-form-nmwthj-ijraa-thqyq.md)
   * [Effective Date Notice - اشعار مباشرة عمل](effective-date-notice-ashaar-mbashrh-aml.md)
   * [Calendar Issues Ticketing](forms-alnmathj/calendar-issues-ticketing.md)
