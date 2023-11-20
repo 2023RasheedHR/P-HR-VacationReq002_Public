@@ -8,6 +8,10 @@ Based on the instructions of the CEO, an exit and return form or final exit form
 
 [https://docs.google.com/document/d/1lIWM8KMzUK3fw\_\_QtLLWbjl6SP1-4QdbzjYi-DIfdvc/edit?usp=sharing](https://docs.google.com/document/d/1lIWM8KMzUK3fw\_\_QtLLWbjl6SP1-4QdbzjYi-DIfdvc/edit?usp=sharing)
 
+ملحوظة هامة: قبل اﻷمضاء يجب قراءة تلك التعليمات ([اضغط هنا](https://docs.google.com/document/d/1migGEyFP1AYXntH79bR4pxvZKz1qaEiSdINREeAG3bc/edit?usp=sharing))
+
+
+
 Tutorial / فيديو توضيحي
 
 {% embed url="https://youtu.be/3uBXccFsohQ" %}
