@@ -27,7 +27,6 @@
   * [Renew Contract تجديد عقد](forms-alnmathj/renew-contract-tjdyd-aqd.md)
   * [المخالفات والجزاءات القانونية](forms-alnmathj/almkhalfat-waljzaaat-alqanwnyh.md)
   * [Job Offer عقد عمل](forms-alnmathj/job-offer-aqd-aml.md)
-  * [Salary increase](forms-alnmathj/salary-increase.md)
   * [Leave Authorization Form || طلب استئذان](forms-alnmathj/leave-authorization-form-or-or-tlb-astethan.md)
   * [Internal transfer || النقل الداخلي](forms-alnmathj/internal-transfer-or-or-alnql-aldakhly.md)
   * [Loan Form - نموذج سلف](forms-alnmathj/loan-form-nmwthj-slf.md)
