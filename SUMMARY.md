@@ -17,6 +17,7 @@
   * [Reda darwish app](appsheet/reda-darwish-app.md)
   * [Salman Danish](appsheet/salman-danish.md)
   * [Khaled Hathout](appsheet/khaled-hathout.md)
+  * [Shakil](appsheet/shakil.md)
   * [Accountants app](appsheet/accountants-app.md)
   * [HR app](appsheet/page.md)
 * [Forms - النماذج](<README (1).md>)
