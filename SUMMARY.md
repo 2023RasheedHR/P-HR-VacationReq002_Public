@@ -37,6 +37,7 @@
   * [Order office supplies](forms-alnmathj/order-office-supplies.md)
   * [نقل كفالة على الشركة Naqel Kfalah to the company](forms-alnmathj/nql-kfalh-ala-alshrkh-naqel-kfalah-to-the-company.md)
   * [Employee Evaluation Form](forms-alnmathj/employee-evaluation-form.md)
+  * [نموذج تقييم الموظف](forms-alnmathj/nmwthj-tqyym-almwzf.md)
 * [Procedures - إجراءات](procedures-ijraaat/README.md)
   * [إجراء نقل برغبة الإدارة](procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
   * [إجراء الجزاءات](procedures-ijraaat/ijraa-aljzaaat.md)
