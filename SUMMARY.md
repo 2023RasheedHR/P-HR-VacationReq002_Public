@@ -62,4 +62,5 @@
     * [Cybersecurity Incident Management Policy](it-department/cybersecurity-policies/cybersecurity-incident-management-policy.md)
     * [Employee Offboarding Procedure](it-department/cybersecurity-policies/employee-offboarding-procedure.md)
     * [Data Confidentiality & Security Agreement](it-department/cybersecurity-policies/data-confidentiality-and-security-agreement.md)
-* [Silica Sand Transfer](silica-sand-transfer.md)
+* [Silica Sector](silica-sector/README.md)
+  * [Silica Sand Transfer](silica-sector/silica-sand-transfer.md)
