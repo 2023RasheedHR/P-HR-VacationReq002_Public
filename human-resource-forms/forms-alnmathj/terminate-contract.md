@@ -6,7 +6,11 @@ To request vacation please [Click here](https://forms.gle/ecaP8KwZFTGVRMvY7)
 
 
 
-نموذج الاجازة الورقي ||  Paper leave form([https://docs.google.com/document/d/1v8QfCISwibXZD7Vw1-](https://docs.google.com/document/d/1v8QfCISwibXZD7Vw1-Ikj\_Czy9g7fMAvomjglwvrGjs/edit?usp=sharing)[Ikj\_Czy9g7fMAvomjglwvrGjs/edit?usp=sharing](https://docs.google.com/document/d/1v8QfCISwibXZD7Vw1-Ikj\_Czy9g7fMAvomjglwvrGjs/edit?usp=sharing))
+نموذج إنهاء عقد الورقي ||  Paper Contract Termination Form&#x20;
+
+
+
+(https://docs.google.com/document/d/1v8QfCISwibXZD7Vw1-Ikj\_Czy9g7fMAvomjglwvrGjs/edit?usp=sharing)
 
 
 
