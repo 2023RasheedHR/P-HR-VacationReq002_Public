@@ -9,6 +9,7 @@
     * [الإجازات المرضية](human-resource-forms/procedures-ijraaat/alijazat-almrdhyh.md)
   * [Forms - النماذج](human-resource-forms/forms-alnmathj/README.md)
     * [Vacation Request](human-resource-forms/forms-alnmathj/vacation-request.md)
+    * [Terminate Contract](human-resource-forms/forms-alnmathj/terminate-contract.md)
     * [Clearance Form - إخلاء طرف](human-resource-forms/forms-alnmathj/clearance-form-ikhlaa-trf.md)
     * [Investigation Procedures Form - نموذج إجراء تحقيق](human-resource-forms/forms-alnmathj/investigation-procedures-form-nmwthj-ijraa-thqyq.md)
     * [Effective Date Notice - اشعار مباشرة عمل](human-resource-forms/forms-alnmathj/effective-date-notice-ashaar-mbashrh-aml.md)
