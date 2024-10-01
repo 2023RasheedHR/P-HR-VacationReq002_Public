@@ -1,12 +1,6 @@
 # Table of contents
 
 * [Human Resource Forms](README.md)
-  * [Procedures - إجراءات](human-resource-forms/procedures-ijraaat/README.md)
-    * [إجراء نقل برغبة الإدارة](human-resource-forms/procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
-    * [إجراء الجزاءات](human-resource-forms/procedures-ijraaat/ijraa-aljzaaat.md)
-    * [إجراء استقالة](human-resource-forms/procedures-ijraaat/ijraa-astqalh.md)
-    * [إجراء طي القيد / الفصل](human-resource-forms/procedures-ijraaat/ijraa-ty-alqyd-alfsl.md)
-    * [الإجازات المرضية](human-resource-forms/procedures-ijraaat/alijazat-almrdhyh.md)
   * [Appsheet](<README (1).md>)
     * [Bader AL Rasheed app](human-resource-forms/appsheet/bader-al-rasheed-app.md)
     * [Hadi AL Rasheed app](human-resource-forms/appsheet/hadi-al-rasheed-app.md)
@@ -68,3 +62,9 @@
     * [الوثائق الرسمية - Official Documents ](https://drive.google.com/drive/folders/1Om54merWFdMhdUmO\_rFAGKMln2EZz4si?usp=sharing)
 * [Silica Sector](silica-sector/README.md)
   * [Silica Sand Transfer](silica-sector/silica-sand-transfer.md)
+  * [Procedures - إجراءات](silica-sector/procedures-ijraaat/README.md)
+    * [إجراء نقل برغبة الإدارة](silica-sector/procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
+    * [إجراء الجزاءات](silica-sector/procedures-ijraaat/ijraa-aljzaaat.md)
+    * [إجراء استقالة](silica-sector/procedures-ijraaat/ijraa-astqalh.md)
+    * [إجراء طي القيد / الفصل](silica-sector/procedures-ijraaat/ijraa-ty-alqyd-alfsl.md)
+    * [الإجازات المرضية](silica-sector/procedures-ijraaat/alijazat-almrdhyh.md)
