@@ -68,6 +68,3 @@
     * [Data Confidentiality & Security Agreement](it-department/cybersecurity-policies/data-confidentiality-and-security-agreement.md)
 * [Silica Sector](silica-sector/README.md)
   * [Silica Sand Transfer](silica-sector/silica-sand-transfer.md)
-* [Page 1](page-1.md)
-* [Human Resource Forms](human-resource-forms-1.md)
-* [Page 1](page-1-1.md)
