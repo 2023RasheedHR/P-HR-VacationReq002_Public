@@ -10,9 +10,9 @@ To request vacation please [Click here](https://forms.gle/ecaP8KwZFTGVRMvY7)
 
 
 
-https://docs.google.com/document/d/1v8QfCISwibXZD7Vw1-Ikj\_Czy9g7fMAvomjglwvrGjs/edit?usp=sharing
 
 
+[https://docs.google.com/document/d/1v8QfCISwibXZD7Vw1-Ikj\_Czy9g7fMAvomjglwvrGjs/edit](https://docs.google.com/document/d/1v8QfCISwibXZD7Vw1-Ikj\_Czy9g7fMAvomjglwvrGjs/edit)
 
 بناء علي تعليمات الرئيس التنفيذي لن يتم إستخراج نموذج خروج وعودة أو خروج نهائي بدون الإنتهاء من نموذج إخلاء الطرف في الرابط التالي
 
