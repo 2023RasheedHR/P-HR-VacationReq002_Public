@@ -1,6 +1,6 @@
 # Terminate Contract
 
-To request vacation please [Click here](https://forms.gle/ecaP8KwZFTGVRMvY7)
+To request Termination of a contract please [Click here](https://forms.gle/ecaP8KwZFTGVRMvY7)
 
 
 
