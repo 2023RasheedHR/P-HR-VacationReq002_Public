@@ -68,3 +68,4 @@
     * [Shakil Ahmad](hr-forms/appsheet/shakil-ahmad.md)
     * [Accountants app](hr-forms/appsheet/accountants-app.md)
     * [HR app](hr-forms/appsheet/hr-app.md)
+* [List of SOPs](list-of-sops.md)
