@@ -6,4 +6,4 @@
 
 Tutorial - فيديو توضيحي
 
-{% embed url="https://youtu.be/6ah_b-QJB3c" %}
+{% embed url="https://youtu.be/jX2LjW8hEQ8" %}
