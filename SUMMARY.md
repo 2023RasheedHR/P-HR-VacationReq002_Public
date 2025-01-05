@@ -43,6 +43,7 @@
     * [نموذج تقييم الموظف](hr-forms/forms-alnmathj/nmwthj-tqyym-almwzf.md)
     * [الوثائق الرسمية - Official Documents ](https://drive.google.com/drive/folders/1Om54merWFdMhdUmO_rFAGKMln2EZz4si?usp=sharing)
     * [Performance Evaluation Form - نموذج تقييم أداء](hr-forms/forms-alnmathj/performance-evaluation-form-nmwthj-tqyym-adaa.md)
+    * [Effective Date Notice - Trainee // إشعار مباشرة العمل - متدربـ/ـــة](hr-forms/forms-alnmathj/effective-date-notice-trainee-ishaar-mbashrh-alaml-mtdrb-h.md)
   * [Procedures - إجراءات](hr-forms/procedures-ijraaat/README.md)
     * [إجراء نقل برغبة الإدارة](hr-forms/procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
     * [إجراء الجزاءات](hr-forms/procedures-ijraaat/ijraa-aljzaaat.md)
