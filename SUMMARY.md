@@ -19,6 +19,7 @@
   * [Silica Sand Transfer](silica-sector/silica-sand-transfer.md)
 * [HR Forms](hr-forms/README.md)
   * [Forms - النماذج](hr-forms/forms-alnmathj/README.md)
+    * [طلب تمديد تاشيرة خروج و عودة - Requests Visa Extension](hr-forms/forms-alnmathj/tlb-tmdyd-tashyrh-khrwj-w-awdh-requests-visa-extension.md)
     * [Vacation Request](hr-forms/forms-alnmathj/vacation-request.md)
     * [Vacation Planning](hr-forms/forms-alnmathj/vacation-planning.md)
     * [Terminate Contract](hr-forms/forms-alnmathj/terminate-contract.md)
