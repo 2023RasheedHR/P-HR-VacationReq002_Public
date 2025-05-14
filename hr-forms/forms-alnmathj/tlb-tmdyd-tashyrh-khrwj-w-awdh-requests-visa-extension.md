@@ -6,9 +6,6 @@
 
 This is the link for submitting Exit and Re-Entry Visa Extension Requests.\
 Please make sure to complete all the required steps before submitting your request.\
-If a previous request was not processed, kindly resubmit it using this link.\
-\
-\
+If a previous request was not processed, kindly resubmit it using this link.
 
-
-{% embed url="https://forms.gle/9Mfc4KXmgFUWjPBb9" %}
+{% embed url="https://forms.gle/9Mfc4KXmgFUWjPBb9" fullWidth="true" %}
