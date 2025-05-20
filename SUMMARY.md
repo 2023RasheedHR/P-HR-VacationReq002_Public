@@ -16,6 +16,7 @@
     * [Employee Offboarding Procedure](it-department/cybersecurity-policies/employee-offboarding-procedure.md)
     * [Data Confidentiality & Security Agreement](it-department/cybersecurity-policies/data-confidentiality-and-security-agreement.md)
 * [Silica Sector](silica-sector/README.md)
+  * [Changing and Inflating Tyres Procedure](silica-sector/changing-and-inflating-tyres-procedure.md)
   * [Silica Sand Transfer](silica-sector/silica-sand-transfer.md)
 * [HR Forms](hr-forms/README.md)
   * [Forms - النماذج](hr-forms/forms-alnmathj/README.md)
