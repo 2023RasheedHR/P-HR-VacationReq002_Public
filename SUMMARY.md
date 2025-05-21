@@ -20,6 +20,7 @@
   * [Silica Sand Transfer](silica-sector/silica-sand-transfer.md)
 * [HR Forms](hr-forms/README.md)
   * [Forms - النماذج](hr-forms/forms-alnmathj/README.md)
+    * [CORRECT CONTRACT FORM || تصحيح العقد الوظيفي](hr-forms/forms-alnmathj/correct-contract-form-or-or-tshyh-alaqd-alwzyfy.md)
     * [Passport Update Requests](hr-forms/forms-alnmathj/passport-update-requests.md)
     * [Request Vacation Balance](hr-forms/forms-alnmathj/request-vacation-balance.md)
     * [طلب تمديد تاشيرة خروج و عودة - Requests Visa Extension](hr-forms/forms-alnmathj/tlb-tmdyd-tashyrh-khrwj-w-awdh-requests-visa-extension.md)
