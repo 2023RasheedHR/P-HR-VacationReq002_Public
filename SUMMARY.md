@@ -51,6 +51,7 @@
     * [Effective Date Notice - Trainee // إشعار مباشرة العمل - متدربـ/ـــة](hr-forms/forms-alnmathj/effective-date-notice-trainee-ishaar-mbashrh-alaml-mtdrb-h.md)
     * [Internal Transfer Form](hr-forms/forms-alnmathj/internal-transfer-form.md)
     * [Work Notification](hr-forms/forms-alnmathj/work-notification.md)
+    * [Salary Increment Form](hr-forms/forms-alnmathj/salary-increment-form.md)
   * [Procedures - إجراءات](hr-forms/procedures-ijraaat/README.md)
     * [إجراء نقل برغبة الإدارة](hr-forms/procedures-ijraaat/ijraa-nql-brghbh-alidarh.md)
     * [إجراء الجزاءات](hr-forms/procedures-ijraaat/ijraa-aljzaaat.md)
