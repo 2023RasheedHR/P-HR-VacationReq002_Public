@@ -41,7 +41,6 @@
     * [Internal transfer || النقل الداخلي](hr-forms/forms-alnmathj/internal-transfer-or-or-alnql-aldakhly.md)
     * [Loan Form - نموذج سلف](hr-forms/forms-alnmathj/loan-form-nmwthj-slf.md)
     * [Business Card - Email Signature](hr-forms/forms-alnmathj/business-card-email-signature.md)
-    * [Report of escape بلاغ هروب](hr-forms/forms-alnmathj/report-of-escape-blagh-hrwb.md)
     * [Order office supplies](hr-forms/forms-alnmathj/order-office-supplies.md)
     * [نقل كفالة على الشركة Naqel Kfalah to the company](hr-forms/forms-alnmathj/nql-kfalh-ala-alshrkh-naqel-kfalah-to-the-company.md)
     * [Employee Evaluation Form](hr-forms/forms-alnmathj/employee-evaluation-form.md)
